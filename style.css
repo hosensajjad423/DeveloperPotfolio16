@@ -1,3 +1,29 @@
+body{
+    margin: 0%;
+}
 h1{
-    color: red;
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 45%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.top-bannar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
